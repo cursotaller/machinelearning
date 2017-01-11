@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 adbb7c47f5a9a4e23034884a762a92e2738f707c Peter Harrington <peter.b.harrington@gmail.com> 1304551828 -0700	commit (initial): first commit
+adbb7c47f5a9a4e23034884a762a92e2738f707c a2bb13e8594145dfbb09d33e727871cb2577b0fe Peter Harrington <peter.b.harrington@gmail.com> 1304552384 -0700	commit: adding chapter 2
+a2bb13e8594145dfbb09d33e727871cb2577b0fe 981402f31391efd8794562fb2a603a5322c4d1fc Peter Harrington <peter.b.harrington@gmail.com> 1304552673 -0700	commit: adding Ch2 data
+981402f31391efd8794562fb2a603a5322c4d1fc 4f9dd0d57755f44c424969c431200255eb3e79e9 Peter Harrington <peter.b.harrington@gmail.com> 1304553124 -0700	commit: adding ch3
+4f9dd0d57755f44c424969c431200255eb3e79e9 516754d2ee43217b30e9c7b1519ac7b64ef0bd64 Peter Harrington <peter.b.harrington@gmail.com> 1304553378 -0700	commit: adding Ch04
+516754d2ee43217b30e9c7b1519ac7b64ef0bd64 5f74c42e2f34018f11eb5052d5bc145b034024e8 Peter Harrington <peter.b.harrington@gmail.com> 1304553489 -0700	commit: adding Ch05
+5f74c42e2f34018f11eb5052d5bc145b034024e8 f3a792dc114abf35ee577ac5f08ec2adbe69ef40 Peter Harrington <peter.b.harrington@gmail.com> 1304553860 -0700	commit: adding Ch06
+f3a792dc114abf35ee577ac5f08ec2adbe69ef40 09f42be405ec4b35a9cc0d5eac61c54250496b50 Peter Harrington <peter.b.harrington@gmail.com> 1304553939 -0700	commit: adding Chapter 7
+09f42be405ec4b35a9cc0d5eac61c54250496b50 762dae2ebadae095f094767c19293d8d9745b915 Peter Harrington <peter.b.harrington@gmail.com> 1304554084 -0700	commit: corrected Ch02
+762dae2ebadae095f094767c19293d8d9745b915 471f5cd4b87073dc0d269acf3f91969be8986d12 Peter Harrington <peter.b.harrington@gmail.com> 1304555279 -0700	commit: removed Ch2
+471f5cd4b87073dc0d269acf3f91969be8986d12 6de38daa680868595ecb1be6f24e79a3ef957a55 Peter Harrington <peter.b.harrington@gmail.com> 1304555714 -0700	commit: updated README
+6de38daa680868595ecb1be6f24e79a3ef957a55 650ba64c970a82f0bc229f96b537410cd3f53ce6 Peter Harrington <peter.b.harrington@gmail.com> 1306374073 -0700	commit: removed alcholisim refrence from example
+650ba64c970a82f0bc229f96b537410cd3f53ce6 a7ade0ef7d308f00b22f86f9e56dcf2582518c08 Peter Harrington <peter.b.harrington@gmail.com> 1306377550 -0700	commit: no more alchol refrences in treePlotter.py
+a7ade0ef7d308f00b22f86f9e56dcf2582518c08 e3576b44f460f4b666fc0b6116195da2430f3705 Peter Harrington <peter.b.harrington@gmail.com> 1306868460 -0700	commit: updated EXTRAS to remove the word: tatoo
+e3576b44f460f4b666fc0b6116195da2430f3705 ba8743a68457e8f360c9eda6d2e969596919bc28 Peter Harrington <peter.b.harrington@gmail.com> 1306869394 -0700	commit: updated kNN.py to use dict.get()
+ba8743a68457e8f360c9eda6d2e969596919bc28 558ebf082d35a6faccd169cc8b3db9187e83b368 Peter Harrington <peter.b.harrington@gmail.com> 1307037942 -0700	commit: updated trees.py for improvement in classify()
+558ebf082d35a6faccd169cc8b3db9187e83b368 031c15d9c0a3c6795b2cef33668922de618eab06 Peter Harrington <peter.b.harrington@gmail.com> 1308179859 -0700	commit: created fpGrowth, will be polished later
+031c15d9c0a3c6795b2cef33668922de618eab06 4ba1c79c49316360edece84a9e2d039deb6e148c Peter Harrington <peter.b.harrington@gmail.com> 1308361565 -0700	commit: updated fpGrwoth.py
+4ba1c79c49316360edece84a9e2d039deb6e148c 55ffbeaa7e7125a8fa16c7195f4c23d48e8c0b07 Peter Harrington <peter.b.harrington@gmail.com> 1310590951 -0700	commit: changed updateHeader
+55ffbeaa7e7125a8fa16c7195f4c23d48e8c0b07 39ac0cba12680fad6446d861249c10e3fe779448 Peter Harrington <peter.b.harrington@gmail.com> 1313444905 -0700	commit: adding ch11
+39ac0cba12680fad6446d861249c10e3fe779448 9bccee81df7e4aefba2d500c60842dedeb7403dd Peter Harrington <peter.b.harrington@gmail.com> 1313445147 -0700	commit: updating ch12
+9bccee81df7e4aefba2d500c60842dedeb7403dd f32809615ab2136d803e912127bd9c9cafb6547c Peter Harrington <peter.b.harrington@gmail.com> 1313445206 -0700	commit: updating ch12
+f32809615ab2136d803e912127bd9c9cafb6547c 04adac6a0613b7776c620347f507d7e424a57b20 Peter Harrington <peter.b.harrington@gmail.com> 1313448516 -0700	commit: adding Ch13,14,15
+04adac6a0613b7776c620347f507d7e424a57b20 a3c9739a6047df42bd00a59a21e1c6033cd198b1 Peter Harrington <peter.b.harrington@gmail.com> 1323664845 -0800	commit: fixed the chapter in trees.py
+a3c9739a6047df42bd00a59a21e1c6033cd198b1 cdc17356e5db803ef580cd86f6229471ffa993cc Peter Harrington <peter.b.harrington@gmail.com> 1324322597 -0800	commit: added Ch08
+cdc17356e5db803ef580cd86f6229471ffa993cc 1e99152748a5161fbd813ef02830b35f4c1f41f9 Peter Harrington <peter.b.harrington@gmail.com> 1324344883 -0800	commit: added Ch10 and Ch09
+1e99152748a5161fbd813ef02830b35f4c1f41f9 522d3a62e6b82530dce5106a92a6cd16a8ebd9a3 Peter Harrington <peter.b.harrington@gmail.com> 1324407525 -0800	commit: commented out one print statement in stageWise
+522d3a62e6b82530dce5106a92a6cd16a8ebd9a3 53764f2d8bef2e1a432316353a50f45c728d1ac9 Peter Harrington <peter.b.harrington@gmail.com> 1324617284 -0800	commit: updated regression to reflect what is the in the book
+53764f2d8bef2e1a432316353a50f45c728d1ac9 f3d88302d2ef714898c8ef85b5a4e368dc4fc4f8 Peter Harrington <peter.b.harrington@gmail.com> 1325100898 -0800	commit: added kosarak data file
+f3d88302d2ef714898c8ef85b5a4e368dc4fc4f8 f3ea3decdf9c7a45f8193e5e751801e72018cab2 Peter Harrington <peter.b.harrington@gmail.com> 1325116471 -0800	commit: fixed kMeans.py for Python 2.7
+f3ea3decdf9c7a45f8193e5e751801e72018cab2 f4d4e92bc63f19b0edb4a1949b9c8d0a20a4c452 Peter Harrington <peter.b.harrington@gmail.com> 1325196652 -0800	commit: uncommented print in calcConf
+f4d4e92bc63f19b0edb4a1949b9c8d0a20a4c452 5146acbe9fd356431c7ba5452c31e64c203c4414 Peter Harrington <peter.b.harrington@gmail.com> 1325197445 -0800	commit: moved apikey string outside of getActionIds
+5146acbe9fd356431c7ba5452c31e64c203c4414 d0dec0b3f9ca792ee5ed10b30d76ad3ce0d04d3c Peter Harrington <peter.b.harrington@gmail.com> 1325212674 -0800	commit: updated math in mrMean.py
+d0dec0b3f9ca792ee5ed10b30d76ad3ce0d04d3c df7e5691fc624674a042cacd6225bec787a5fecd Peter Harrington <peter.b.harrington@gmail.com> 1325213305 -0800	commit: changed order of steps to make it less confusing, no functional change
+df7e5691fc624674a042cacd6225bec787a5fecd 4b24ff7183ec3f264750458f00e7627a86afff5b Peter Harrington <peter.b.harrington@gmail.com> 1325267569 -0800	commit: added pickled files for Python 2.6 and 2.7
+4b24ff7183ec3f264750458f00e7627a86afff5b 58778fce8ca8e45eb85431d352cd5d6f4e1185d9 Peter Harrington <peter.b.harrington@gmail.com> 1325271048 -0800	commit: added init w code in map_fin
+58778fce8ca8e45eb85431d352cd5d6f4e1185d9 ec4ccabeb6df2d11943ebe212dbb4f163af0eb2c Peter Harrington <peter.b.harrington@gmail.com> 1326174721 -0800	commit: added text formatting
+ec4ccabeb6df2d11943ebe212dbb4f163af0eb2c 232a58d8d04c46d68bd41725a29472b41c6e9205 Peter Harrington <peter.b.harrington@gmail.com> 1326910633 -0800	commit: added 0_5.txt
+232a58d8d04c46d68bd41725a29472b41c6e9205 7d6ef6ff3a452d4ccc6af6b364e76cb0aa794e3a Peter Harrington <peter.b.harrington@gmail.com> 1327169511 -0800	commit: changed labels in last function
+7d6ef6ff3a452d4ccc6af6b364e76cb0aa794e3a 7d2f2fd90179ff1c788af12086cde16c792492d2 Peter Harrington <peter.b.harrington@gmail.com> 1330645290 -0800	commit: added test set file with nominal target values
+7d2f2fd90179ff1c788af12086cde16c792492d2 dc3419bf4a23ac3050ebeed442fac37dc4f59e04 Peter Harrington <peter.b.harrington@gmail.com> 1330645483 -0800	commit: switched datingTestSet 1 and 2
